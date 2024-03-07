@@ -1,1 +1,2 @@
 cout<<"add"<<a+b;
+cout<<"subtract"<<a-b;
