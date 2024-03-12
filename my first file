@@ -1,0 +1,6 @@
+cout<<name<<"hira mansha";
+cout<<endl;
+cout<<roll no<<"23-st-028";
+cout<<endl;
+cout<<department<<"software Engineering";
+cout<<endl;
